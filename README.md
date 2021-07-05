@@ -8,9 +8,9 @@ This is a JavaScript practice with [JavaScript30](https://javascript30.com/) by 
 
 ##
 
-| No. | Title                                         | Repo Link                                                                                                              | GitHub Link                                                                                                                   |
-| --- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| #01 | JS Drum Kit                                   | [Repo](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-1)                              | [GitHub](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/tree/main/dist/01-JS-Drum-Kit)                              |
-| #02 | JS + CSS Clock                                | [Repo](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-2)                             | [GitHub](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/tree/main/dist/02-JS-CSS-Clock)                             |
-| #03 | Update CSS Variables with JS                  | [Repo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/03-CSS-Variables/index.html)                            | [GitHub](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/tree/main/dist/03-CSS-Variables)                            |
-| #04 | Array Cardio (day one)                        | [Repo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/04-Array-Cardio-01/index.html)                          | [GitHub](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/tree/main/dist/04-Array-Cardio-01)                          |
+| No. | Title                                         | GitHub Repo Link                                                                                                              |
+| --- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | 
+| #01 | JS Drum Kit                                   | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-1)                               | 
+| #02 | JS + CSS Clock                                | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-2)                               | 
+| #03 | Update CSS Variables with JS                  | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-3)                            |
+| #04 | Array Cardio (day one)                        | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-4)                          |
