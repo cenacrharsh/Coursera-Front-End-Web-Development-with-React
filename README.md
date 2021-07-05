@@ -1,16 +1,15 @@
-# 30-Days-JavaScript-Challenge
+# Front-End Web Development with React
+## by The Hong Kong University of Science and Technology
 
-This is a JavaScript practice with [JavaScript30](https://javascript30.com/) by Wes Bos without any frameworks, no compilers, no boilerplate, and no libraries.
+## Assignment Solutions
 
-##
-
-### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/)
+### ✨ [Demo](https://cenacrharsh.github.io/home)
 
 ##
 
 | No. | Title                                         | GitHub Repo Link                                                                                                              |
 | --- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | 
-| #01 | JS Drum Kit                                   | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-1)                               | 
-| #02 | JS + CSS Clock                                | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-2)                               | 
-| #03 | Update CSS Variables with JS                  | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-3)                            |
-| #04 | Array Cardio (day one)                        | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-4)                          |
+| #01 | Assignment-1                                   | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-1)                               | 
+| #02 | Assignment-2                                | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-2)                               | 
+| #03 | Assignment-3                  | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-3)                            |
+| #04 | Assignment-4                        | [GitHub](https://github.com/cenacrharsh/Front-End-Web-Development-with-React-Assignment-4)                          |
